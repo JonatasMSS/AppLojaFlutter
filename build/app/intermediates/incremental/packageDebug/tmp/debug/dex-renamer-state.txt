@@ -1,0 +1,4 @@
+#Tue Jan 04 23:02:39 BRT 2022
+base.0=/home/jonatas/Área de Trabalho/Programming/Flutter Projects/loja/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
